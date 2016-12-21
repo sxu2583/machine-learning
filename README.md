@@ -1,9 +1,9 @@
-# machine-learning
+# Machine Learning
 A repo to showcase practice of machine learning via python
 
-Its going to be pushed onto this repo in order to force me
-to keep working on it :smirk:
+Its going to be pushed onto this repo in order to create an amalgamation of different
+projects, practice alogrithms and etc
 
-I'll get back to it soon :alien: 
+It'll become something bigger later on :alien:
 
-Learned via: Python Machine Learning e-book
+Learned via: Python Machine ~ By Sebastian Raschka 
