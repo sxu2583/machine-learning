@@ -1,4 +1,5 @@
 #Machine-Learning Hello World
 
 MNIST is as tensorflow explains, "a simple computer vision dataset predictor"
-$Based off of the initial tutorial
+
+Time to say HelloWorld this will be based off of the main tutorial
